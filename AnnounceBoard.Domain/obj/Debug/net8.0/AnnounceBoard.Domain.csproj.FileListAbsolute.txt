@@ -10,3 +10,4 @@
 /home/maksi/Studying/Nerdysoft.TestTask/AnnounceBoard.Domain/obj/Debug/net8.0/refint/AnnounceBoard.Domain.dll
 /home/maksi/Studying/Nerdysoft.TestTask/AnnounceBoard.Domain/obj/Debug/net8.0/AnnounceBoard.Domain.pdb
 /home/maksi/Studying/Nerdysoft.TestTask/AnnounceBoard.Domain/obj/Debug/net8.0/ref/AnnounceBoard.Domain.dll
+/home/maksi/Studying/Nerdysoft.TestTask/AnnounceBoard.Domain/obj/Debug/net8.0/AnnounceBoard.Domain.sourcelink.json

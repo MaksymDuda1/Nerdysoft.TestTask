@@ -13,3 +13,4 @@
 /home/maksi/Studying/Nerdysoft.TestTask/AnnounceBoard.Application/obj/Debug/net8.0/refint/AnnounceBoard.Application.dll
 /home/maksi/Studying/Nerdysoft.TestTask/AnnounceBoard.Application/obj/Debug/net8.0/AnnounceBoard.Application.pdb
 /home/maksi/Studying/Nerdysoft.TestTask/AnnounceBoard.Application/obj/Debug/net8.0/ref/AnnounceBoard.Application.dll
+/home/maksi/Studying/Nerdysoft.TestTask/AnnounceBoard.Application/obj/Debug/net8.0/AnnounceBoard.Application.sourcelink.json

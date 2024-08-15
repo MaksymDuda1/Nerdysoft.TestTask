@@ -15,3 +15,4 @@
 /home/maksi/Studying/Nerdysoft.TestTask/AnnounceBoard.Infrastructure/obj/Debug/net8.0/ref/AnnounceBoard.Infrastructure.dll
 /home/maksi/Studying/Nerdysoft.TestTask/AnnounceBoard.Infrastructure/bin/Debug/net8.0/AnnounceBoard.Infrastructure.runtimeconfig.json
 /home/maksi/Studying/Nerdysoft.TestTask/AnnounceBoard.Infrastructure/obj/Debug/net8.0/AnnounceBoard.Infrastructure.genruntimeconfig.cache
+/home/maksi/Studying/Nerdysoft.TestTask/AnnounceBoard.Infrastructure/obj/Debug/net8.0/AnnounceBoard.Infrastructure.sourcelink.json
