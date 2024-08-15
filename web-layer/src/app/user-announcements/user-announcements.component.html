@@ -1,0 +1,52 @@
+<div class="user-profile my-5">
+    <nav>
+        <ul>
+            <li [class.active]="activeTab === 'announcements'" (click)="setActiveTab('announcements')">Announcements
+            </li>
+            <li [class.active]="activeTab === 'newAnnouncement'" (click)="setActiveTab('newAnnouncement')">New
+                announcement</li>
+            <li [class.active]="activeTab === 'info'" (click)="setActiveTab('info')">User info</li>
+        </ul>
+    </nav>
+
+    <div [ngSwitch]="activeTab">
+        <div *ngSwitchCase="'announcements'">
+            <h2>My announcements</h2>
+            <ul>
+                <li *ngFor="let announcement of announcements" class="announcement-container">
+                    <div class="announcement-header">
+                        <h3>{{ announcement.title }}</h3>
+                        <div class="announcement-actions">
+                            <button class="btn btn-dark"
+                                [routerLink]="'/update-announcement/' + announcement.id">Edit</button>
+                            <button class="btn btn-dark" (click)="deleteAnnouncement(announcement.id)">Delete</button>
+                        </div>
+                    </div>
+                    <p>{{ announcement.description }}</p>
+                </li>
+            </ul>
+        </div>
+
+        <div *ngSwitchCase="'newAnnouncement'">
+            <h2>Add new announcement</h2>
+            <form (ngSubmit)="addPost()">
+                <input [(ngModel)]="newAnnouncement.title" name="title" placeholder="Title" required>
+                <textarea maxlength="1000" [(ngModel)]="newAnnouncement.description" name="content"
+                    placeholder="Description" required></textarea>
+                <div class="my-4">
+                    <label for="image" class="form-label">Image:</label>
+                    <input type="file" name="image" class="form-control area" (change)="onFileChange($event)"
+                        id="image">
+                </div>
+                <button type="submit">Add</button>
+            </form>
+        </div>
+
+        <div *ngSwitchCase="'info'">
+            <h2>About user</h2>
+            <p>Username: {{ user.userName }}</p>
+            <p>Email: {{ user.email }}</p>
+        </div>
+    </div>
+</div>
+{{message}}

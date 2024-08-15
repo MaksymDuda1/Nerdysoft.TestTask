@@ -1,0 +1,125 @@
+.user-profile {
+    max-width: 800px;
+    margin: 0 auto;
+    font-family: Arial, sans-serif;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+    display: flex;
+    background-color: #f0f0f0;
+    border-radius: 5px;
+}
+
+nav ul:hover {
+    color: #f0f0f0;
+}
+
+nav li {
+    padding: 10px 20px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+nav li.active {
+    background-color: black;
+    color: white;
+}
+
+nav li:hover {
+    background-color: #352f2f;
+}
+
+h2 {
+    color: #333;
+    border-bottom: 2px solid;
+    padding-bottom: 10px;
+}
+
+li {
+    list-style-type: none;
+    border-bottom: 1px solid #e0e0e0;
+    padding-bottom: 10px;
+}
+
+
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+input,
+textarea {
+    margin-bottom: 10px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+button {
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+button:hover{
+    background-color: black;
+}
+
+p {
+    color: #666;
+}
+
+.announcement-container {
+    max-width: 100%;
+    padding: 15px;
+    box-sizing: border-box;
+}
+
+.announcement-container h3 {
+    margin-bottom: 10px;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+    white-space: pre-wrap;
+}
+
+.announcement-container p {
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 4;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+    white-space: pre-wrap;
+    max-width: 100%;
+}
+
+.announcement-container {
+    margin-bottom: 20px;
+}
+
+.announcement-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.announcement-actions {
+    display: flex;
+    gap: 10px;
+}
+
+.announcement-actions button {
+    padding: 5px 10px;
+    cursor: pointer;
+}
+
+.announcement-actions button:hover {
+    transform: scale(1.1);
+    transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+}

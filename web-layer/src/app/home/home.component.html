@@ -1,0 +1,15 @@
+<div class="container-sm">
+    <div class="announcements">
+      <div class="announcement" [routerLink]="'/announcement-detail/' + announcement.id"
+           *ngFor="let announcement of announcements">
+        <div class="photo">
+          <img [src]="announcement.photoPath" alt="Announcement Image">
+        </div>
+        <div class="content">
+          <h2 class="title">{{announcement.title}}</h2>
+          <p class="description">{{announcement.description}}</p>
+          <p class="date">{{announcement.date | date:'mediumDate'}}</p>
+        </div>
+      </div>
+    </div>
+  </div>

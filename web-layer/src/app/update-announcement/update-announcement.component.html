@@ -1,0 +1,27 @@
+<div class="container">
+    <div class="header">
+        <span>Update announcement</span>
+    </div>
+    <form>
+        <div class="mb-3">
+            <label for="Name" class="form-label">Title</label>
+            <input type="text" name="title" class="form-control area" [(ngModel)]="updateAnnouncement.title" id="title"> 
+        </div>
+        <div class="mb-3">
+            <label for="Name" class="form-label">Description</label>
+            <input type="text" name="description" class="form-control area" [(ngModel)]="updateAnnouncement.description" id="description"> 
+
+        </div>
+        <div class="mb-3">
+            <label for="Name" class="form-label">Image:</label>
+            <input type="file" multiple name="image" class="form-control area" (change)="onFileChange($event)"
+                id="image">
+        </div>
+
+        <div class="message">{{ message }}</div>
+        <div class="btns">
+            <button type="button" name="" class="btn btn-dark" (click)="onUpdate()">Submit</button>
+            <button class="btn btn-dark" (click)="goBack()">Back</button>
+        </div>
+    </form>
+</div>

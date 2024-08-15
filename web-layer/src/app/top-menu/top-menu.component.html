@@ -1,0 +1,14 @@
+<nav class="navbar navbar-light">
+    <div class="container">
+        <div class="logo">
+            <a routerLink="/home">
+                <span class="logo-text">Announcement Board</span>
+            </a>
+        </div>
+
+        <div class="btns">
+            <button *ngIf="isAuthorized" class="btn btn-dark" [routerLink]="'user-announcements/' + userId">User announcements</button>
+            <button *ngIf="isAuthorized" class="btn btn-dark" (click)="onExit()">Exit</button>
+        </div>
+    </div>
+</nav>

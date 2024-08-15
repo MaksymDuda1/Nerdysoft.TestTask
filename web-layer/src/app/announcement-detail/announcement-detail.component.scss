@@ -1,0 +1,28 @@
+.announcement-img-container {
+  width: 100%;
+  height: 400px;
+  overflow: hidden;
+  border-radius: 10px;
+  margin-bottom: 20px;
+}
+
+.announcement-img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center; /* Centers the image within the container */
+}
+
+.similar-announcement-img-container {
+  width: 100%;
+  height: 200px;
+  overflow: hidden;
+  border-radius: 10px 10px 0 0;
+}
+
+.similar-announcement-img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center; /* Centers the image within the container */
+}
