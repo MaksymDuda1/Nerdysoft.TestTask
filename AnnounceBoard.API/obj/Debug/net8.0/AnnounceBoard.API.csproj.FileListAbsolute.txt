@@ -126,3 +126,5 @@
 /home/maksi/Studying/Nerdysoft.TestTask/AnnounceBoard.API/obj/Debug/net8.0/AnnounceBoard.API.genruntimeconfig.cache
 /home/maksi/Studying/Nerdysoft.TestTask/AnnounceBoard.API/obj/Debug/net8.0/ref/AnnounceBoard.API.dll
 /home/maksi/Studying/Nerdysoft.TestTask/AnnounceBoard.API/obj/Debug/net8.0/AnnounceBoard.API.sourcelink.json
+/home/maksi/Studying/Nerdysoft.TestTask/AnnounceBoard.API/bin/Debug/net8.0/Microsoft.AspNetCore.Identity.UI.dll
+/home/maksi/Studying/Nerdysoft.TestTask/AnnounceBoard.API/bin/Debug/net8.0/Microsoft.Extensions.FileProviders.Embedded.dll

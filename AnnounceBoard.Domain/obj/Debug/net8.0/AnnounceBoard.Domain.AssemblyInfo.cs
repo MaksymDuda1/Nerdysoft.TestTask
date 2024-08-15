@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AnnounceBoard.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ef00be3ff615fac45a514f69f8efb50b90df5656")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a3c82524832708e70ea4691f059e0e5b5e492c13")]
 [assembly: System.Reflection.AssemblyProductAttribute("AnnounceBoard.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AnnounceBoard.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
