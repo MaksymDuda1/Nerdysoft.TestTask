@@ -1,0 +1,17 @@
+/home/maksi/Studying/Nerdysoft.TestTask/AnnounceBoard.Infrastructure/bin/Debug/net8.0/AnnounceBoard.Infrastructure.deps.json
+/home/maksi/Studying/Nerdysoft.TestTask/AnnounceBoard.Infrastructure/bin/Debug/net8.0/AnnounceBoard.Infrastructure.dll
+/home/maksi/Studying/Nerdysoft.TestTask/AnnounceBoard.Infrastructure/bin/Debug/net8.0/AnnounceBoard.Infrastructure.pdb
+/home/maksi/Studying/Nerdysoft.TestTask/AnnounceBoard.Infrastructure/bin/Debug/net8.0/AnnounceBoard.Domain.dll
+/home/maksi/Studying/Nerdysoft.TestTask/AnnounceBoard.Infrastructure/bin/Debug/net8.0/AnnounceBoard.Domain.pdb
+/home/maksi/Studying/Nerdysoft.TestTask/AnnounceBoard.Infrastructure/obj/Debug/net8.0/AnnounceBoard.Infrastructure.csproj.AssemblyReference.cache
+/home/maksi/Studying/Nerdysoft.TestTask/AnnounceBoard.Infrastructure/obj/Debug/net8.0/AnnounceBoard.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/home/maksi/Studying/Nerdysoft.TestTask/AnnounceBoard.Infrastructure/obj/Debug/net8.0/AnnounceBoard.Infrastructure.AssemblyInfoInputs.cache
+/home/maksi/Studying/Nerdysoft.TestTask/AnnounceBoard.Infrastructure/obj/Debug/net8.0/AnnounceBoard.Infrastructure.AssemblyInfo.cs
+/home/maksi/Studying/Nerdysoft.TestTask/AnnounceBoard.Infrastructure/obj/Debug/net8.0/AnnounceBoard.Infrastructure.csproj.CoreCompileInputs.cache
+/home/maksi/Studying/Nerdysoft.TestTask/AnnounceBoard.Infrastructure/obj/Debug/net8.0/AnnounceBoard.Infrastructure.csproj.CopyComplete
+/home/maksi/Studying/Nerdysoft.TestTask/AnnounceBoard.Infrastructure/obj/Debug/net8.0/AnnounceBoard.Infrastructure.dll
+/home/maksi/Studying/Nerdysoft.TestTask/AnnounceBoard.Infrastructure/obj/Debug/net8.0/refint/AnnounceBoard.Infrastructure.dll
+/home/maksi/Studying/Nerdysoft.TestTask/AnnounceBoard.Infrastructure/obj/Debug/net8.0/AnnounceBoard.Infrastructure.pdb
+/home/maksi/Studying/Nerdysoft.TestTask/AnnounceBoard.Infrastructure/obj/Debug/net8.0/ref/AnnounceBoard.Infrastructure.dll
+/home/maksi/Studying/Nerdysoft.TestTask/AnnounceBoard.Infrastructure/bin/Debug/net8.0/AnnounceBoard.Infrastructure.runtimeconfig.json
+/home/maksi/Studying/Nerdysoft.TestTask/AnnounceBoard.Infrastructure/obj/Debug/net8.0/AnnounceBoard.Infrastructure.genruntimeconfig.cache

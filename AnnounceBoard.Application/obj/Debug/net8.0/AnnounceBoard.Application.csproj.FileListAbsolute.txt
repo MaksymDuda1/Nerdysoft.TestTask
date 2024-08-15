@@ -1,0 +1,15 @@
+/home/maksi/Studying/Nerdysoft.TestTask/AnnounceBoard.Application/bin/Debug/net8.0/AnnounceBoard.Application.deps.json
+/home/maksi/Studying/Nerdysoft.TestTask/AnnounceBoard.Application/bin/Debug/net8.0/AnnounceBoard.Application.dll
+/home/maksi/Studying/Nerdysoft.TestTask/AnnounceBoard.Application/bin/Debug/net8.0/AnnounceBoard.Application.pdb
+/home/maksi/Studying/Nerdysoft.TestTask/AnnounceBoard.Application/bin/Debug/net8.0/AnnounceBoard.Domain.dll
+/home/maksi/Studying/Nerdysoft.TestTask/AnnounceBoard.Application/bin/Debug/net8.0/AnnounceBoard.Domain.pdb
+/home/maksi/Studying/Nerdysoft.TestTask/AnnounceBoard.Application/obj/Debug/net8.0/AnnounceBoard.Application.csproj.AssemblyReference.cache
+/home/maksi/Studying/Nerdysoft.TestTask/AnnounceBoard.Application/obj/Debug/net8.0/AnnounceBoard.Application.GeneratedMSBuildEditorConfig.editorconfig
+/home/maksi/Studying/Nerdysoft.TestTask/AnnounceBoard.Application/obj/Debug/net8.0/AnnounceBoard.Application.AssemblyInfoInputs.cache
+/home/maksi/Studying/Nerdysoft.TestTask/AnnounceBoard.Application/obj/Debug/net8.0/AnnounceBoard.Application.AssemblyInfo.cs
+/home/maksi/Studying/Nerdysoft.TestTask/AnnounceBoard.Application/obj/Debug/net8.0/AnnounceBoard.Application.csproj.CoreCompileInputs.cache
+/home/maksi/Studying/Nerdysoft.TestTask/AnnounceBoard.Application/obj/Debug/net8.0/AnnounceBoard.Application.csproj.CopyComplete
+/home/maksi/Studying/Nerdysoft.TestTask/AnnounceBoard.Application/obj/Debug/net8.0/AnnounceBoard.Application.dll
+/home/maksi/Studying/Nerdysoft.TestTask/AnnounceBoard.Application/obj/Debug/net8.0/refint/AnnounceBoard.Application.dll
+/home/maksi/Studying/Nerdysoft.TestTask/AnnounceBoard.Application/obj/Debug/net8.0/AnnounceBoard.Application.pdb
+/home/maksi/Studying/Nerdysoft.TestTask/AnnounceBoard.Application/obj/Debug/net8.0/ref/AnnounceBoard.Application.dll
