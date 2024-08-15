@@ -1,13 +1,13 @@
 import { Component, OnInit } from '@angular/core';
 import { AnnouncementService } from '../../services/announcement.service';
 import { AnnouncementModel } from '../../models/announcement.model';
-import { ActivatedRoute } from '@angular/router';
+import { ActivatedRoute, RouterModule } from '@angular/router';
 import { CommonModule } from '@angular/common';
 
 @Component({
   selector: 'app-announcement-detail',
   standalone: true,
-  imports: [CommonModule],
+  imports: [CommonModule, RouterModule],
   templateUrl: './announcement-detail.component.html',
   styleUrl: './announcement-detail.component.scss'
 })

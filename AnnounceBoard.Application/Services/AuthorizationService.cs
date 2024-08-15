@@ -42,7 +42,7 @@ public class AuthorizationService(
         var result = await userManager.CreateAsync(user, registrationDto.Password);
 
         if (!result.Succeeded)
-            throw new AuthenticationException("User already exist");
+            throw new AuthenticationException("The user already exists or you entered incorrect data");
 
         await userManager.AddToRoleAsync(user, "User");
         await userManager.UpdateAsync(user);

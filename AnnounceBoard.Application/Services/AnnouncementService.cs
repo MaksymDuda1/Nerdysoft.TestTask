@@ -108,7 +108,7 @@ public class AnnouncementService(
         announcement.Title = announcementDto.Title;
         announcement.Description = announcementDto.Description;
         if (announcementDto.PhotoPath != null)
-            announcement.PhotoPath = announcementDto.PhotoPath;
+            announcement.PhotoPath = await fileService.UploadImage(announcementDto.PhotoPath);
 
         unitOfWork.Announcement.Update(announcement);
         await unitOfWork.SaveAsync();

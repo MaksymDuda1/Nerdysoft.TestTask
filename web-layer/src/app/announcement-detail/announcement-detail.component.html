@@ -14,7 +14,7 @@
     </div>
     <h2 class="mt-5 mb-4">Similar Announcements</h2>
     <div class="row row-cols-1 row-cols-md-3 g-4">
-      <div class="col" *ngFor="let similarAnnouncement of similarAnnouncements">
+      <div class="col" [routerLink]="'/announcement-detail/' + similarAnnouncement.id" *ngFor="let similarAnnouncement of similarAnnouncements">
         <div class="card h-100 shadow-sm">
           <div class="similar-announcement-img-container">
             <img [src]="similarAnnouncement.photoPath" class="similar-announcement-img" alt="Similar announcement image">

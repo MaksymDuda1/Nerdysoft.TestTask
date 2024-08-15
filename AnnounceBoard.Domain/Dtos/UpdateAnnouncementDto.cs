@@ -1,3 +1,5 @@
+using Microsoft.AspNetCore.Http;
+
 namespace AnnounceBoard.Domain.Dtos;
 
 public class UpdateAnnouncementDto
@@ -8,5 +10,5 @@ public class UpdateAnnouncementDto
     
     public string Description { get; set; } = null!;
     
-    public string? PhotoPath { get; set; }
+    public IFormFile? PhotoPath { get; set; }
 }

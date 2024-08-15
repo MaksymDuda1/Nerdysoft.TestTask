@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AnnounceBoard.Infrastructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a3c82524832708e70ea4691f059e0e5b5e492c13")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7e05589bea4a42b20dacaa931606d9d53790dc08")]
 [assembly: System.Reflection.AssemblyProductAttribute("AnnounceBoard.Infrastructure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AnnounceBoard.Infrastructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -55,7 +55,7 @@ export class UpdateAnnouncementComponent implements OnInit {
     formData.append("Description", this.updateAnnouncement.description);
 
     if (this.updateAnnouncement.photoPath)
-      formData.append("Photo", this.updateAnnouncement.photoPath);
+      formData.append("PhotoPath", this.updateAnnouncement.photoPath);
 
     this.announcementService.update(formData).subscribe(
       () => {
